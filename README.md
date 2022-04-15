@@ -1,6 +1,7 @@
-# Hello World
+# Flutter Weather Application
 
-A new Flutter project.
+This Weather Application is developed by flutter using openweather API,
+this is simple app a user searches for some city and the application will return the current temprature of that city.
 
 ## Getting Started
 
