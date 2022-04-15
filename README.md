@@ -17,4 +17,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 <img src="https://github.com/MitkuDubale38/Flutter_Weather_App/blob/master/weather_screenshoot.png" width="250" height="400"/>
-<img src="https://github.com/MitkuDubale38/Flutter_Weather_App/blob/master/weather_result" width="250" height="400"/>
+<img src="https://github.com/MitkuDubale38/Flutter_Weather_App/blob/master/weather_result.png" width="250" height="400"/>
